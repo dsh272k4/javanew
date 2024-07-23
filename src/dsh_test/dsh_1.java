@@ -10,8 +10,10 @@ public class dsh_1 {
 		System.out.println("nhap ngay");
 		int ngay = dsh.nextInt();
 		System.out.println("nhap diem");
-		float diems = dsh.nextFloat();
+		float diem = dsh.nextFloat();
 
 		System.out.println("hovaten: " + ht + " ngay: " + ngay + "diem: " + diem);
+		dsh.close();
 	}
+
 }

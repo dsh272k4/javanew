@@ -77,4 +77,18 @@ public class BaiTap {
 		}
 		return tong;
 	}
+
+	public void bai4() {
+
+	}
+
+	public void bai5() {
+	}
+
+	public void bai6() {
+	}
+
+	public void bai7() {
+
+	}
 }

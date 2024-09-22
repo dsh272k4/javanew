@@ -79,6 +79,6 @@ class MyFrame1 extends Frame {
 
 public class bai2 {
 	public static void main(String[] args) {
-		MyFrame1 frm = new MyFrame1(); // Khởi tạo và hiển thị MyFrame
+		MyFrame1 frm1 = new MyFrame1(); // Khởi tạo và hiển thị MyFrame
 	}
 }
